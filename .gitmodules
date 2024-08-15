@@ -1,0 +1,6 @@
+[submodule "AC-K1_v1-zmk-config"]
+	path = AC-K1_v1-zmk-config
+	url = https://github.com/TheArled/AC-K1_v1-zmk-config.git
+[submodule "AC-K1_v1-PCB"]
+	path = AC-K1_v1-PCB
+	url = https://github.com/TheArled/AC-K1_v1-PCB.git
